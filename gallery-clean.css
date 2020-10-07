@@ -12,16 +12,17 @@ body {
   text-align: center;
   font-family: "Droid Sans", sans-serif;
   font-weight: bold;
-  color: #202022;
+  color: #2e2e36;
   padding: 15px;
   font-size: 50px;
 }
 .title {
   padding: 12px;
   margin-bottom: 25px;
-  /* border-bottom: 2px solid #58595a; */
 }
-
+.title > .paragrafy{
+  color: #fff !important;
+}
 .gallery-container p.page-description {
   text-align: center;
   margin: 5px auto;
